@@ -1,7 +1,7 @@
 # ReactNative_Mobile_Apps
 
 Functional prototype app, developed while working for Tryg Invest in 2017.
-# Tryg_Invest_App
+Tryg_Invest_App
 
 AND
 
