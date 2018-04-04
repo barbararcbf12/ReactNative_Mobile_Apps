@@ -2,6 +2,7 @@
 
 Functional prototype app, developed while working for Tryg Invest in 2017.
 # Tryg_Invest_App
+https://github.com/barbararcbf12/ReactNative_Mobile_Apps/tree/master/Tryg_Invest_App
 
 AND
 
