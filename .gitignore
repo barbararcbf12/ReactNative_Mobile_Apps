@@ -56,7 +56,6 @@ package-lock.json
 # OS X
 .DS_Store
 *.DS_Store
-/.DS_Store
 /src/.DS_Store
 /ATM-consultoria/src/.DS_Store
 /ATM-consultoria/src/components/.DS_Store
