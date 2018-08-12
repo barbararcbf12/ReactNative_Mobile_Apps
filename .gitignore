@@ -56,9 +56,9 @@ package-lock.json
 # OS X
 .DS_Store
 *.DS_Store
-/src/.DS_Store
-/ATM-consultoria/src/.DS_Store
-/ATM-consultoria/src/components/.DS_Store
+src/.DS_Store
+ATM-consultoria/src/.DS_Store
+ATM-consultoria/src/components/.DS_Store
 
 # Test generated files
 /ReactAndroid/src/androidTest/assets/AndroidTestBundle.js
